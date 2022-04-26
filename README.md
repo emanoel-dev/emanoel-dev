@@ -1,6 +1,6 @@
 # Olá, me chamo Emanoel Silva 👋
 
-👨🏽‍💻 Tenho 18 anos e sou apaixonado por Tecnologia. Atualmente, sou graduando em Análise e Desenvolvimento de Sistemas com o objetivo de me profissionalizar na área do Desenvolvimento Mobile utilizando React Native. Também possuo conhecimento na área de Desenvolvimento Web Front End.
+👨🏽‍💻 Tenho 18 anos, moro em São Paulo e sou apaixonado por Tecnologia. Atualmente, sou graduando em Análise e Desenvolvimento de Sistemas com o objetivo de me profissionalizar na área do Desenvolvimento Mobile utilizando React Native. Também possuo conhecimento na área de Desenvolvimento Web Front End.
 
 ⚡ Gosto de acompanhar notícias internacionais e nacionais das áreas tecnológicas, jogar nas horas vagas, participar de aulas e eventos de desenvolvedores e sair com os amigos nos finais de semanas.<br><br><br>
 
