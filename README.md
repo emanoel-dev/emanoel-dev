@@ -31,4 +31,5 @@
 <div>
 <a href="https://www.instagram.com/euemanuel.silva/" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" style="width:30px;height:30px;" target="_blank"></a>&nbsp;
 <a href="mailto:emanoelps09@gmail.com" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png" style="width:30px;height:30px;" target="_blank"></a> &nbsp;
+<a href="https://www.linkedin.com/in/silva-emanoel/" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" style="width:30px;height:30px;" target="_blank"></a> &nbsp;
 </div>
